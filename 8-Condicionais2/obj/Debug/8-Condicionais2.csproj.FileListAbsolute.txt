@@ -1,0 +1,7 @@
+C:\Users\Danielly\Desktop\ExerciciosCSharp\8-Condicionais2\bin\Debug\8-Condicionais2.exe.config
+C:\Users\Danielly\Desktop\ExerciciosCSharp\8-Condicionais2\bin\Debug\8-Condicionais2.exe
+C:\Users\Danielly\Desktop\ExerciciosCSharp\8-Condicionais2\bin\Debug\8-Condicionais2.pdb
+C:\Users\Danielly\Desktop\ExerciciosCSharp\8-Condicionais2\obj\Debug\8-Condicionais2.csprojAssemblyReference.cache
+C:\Users\Danielly\Desktop\ExerciciosCSharp\8-Condicionais2\obj\Debug\8-Condicionais2.csproj.CoreCompileInputs.cache
+C:\Users\Danielly\Desktop\ExerciciosCSharp\8-Condicionais2\obj\Debug\8-Condicionais2.exe
+C:\Users\Danielly\Desktop\ExerciciosCSharp\8-Condicionais2\obj\Debug\8-Condicionais2.pdb
