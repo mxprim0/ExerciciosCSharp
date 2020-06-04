@@ -1,0 +1,7 @@
+C:\Users\Danielly\Desktop\ExerciciosCSharp\13-ForEncadeado\obj\Debug\13-ForEncadeado.csprojAssemblyReference.cache
+C:\Users\Danielly\Desktop\ExerciciosCSharp\13-ForEncadeado\obj\Debug\13-ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\Danielly\Desktop\ExerciciosCSharp\13-ForEncadeado\bin\Debug\13-ForEncadeado.exe.config
+C:\Users\Danielly\Desktop\ExerciciosCSharp\13-ForEncadeado\bin\Debug\13-ForEncadeado.exe
+C:\Users\Danielly\Desktop\ExerciciosCSharp\13-ForEncadeado\bin\Debug\13-ForEncadeado.pdb
+C:\Users\Danielly\Desktop\ExerciciosCSharp\13-ForEncadeado\obj\Debug\13-ForEncadeado.exe
+C:\Users\Danielly\Desktop\ExerciciosCSharp\13-ForEncadeado\obj\Debug\13-ForEncadeado.pdb
