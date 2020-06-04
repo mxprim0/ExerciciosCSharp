@@ -1,0 +1,2 @@
+C:\Users\Danielly\Desktop\ExerciciosCSharp\9-Escopo\obj\Debug\9-Escopo.csprojAssemblyReference.cache
+C:\Users\Danielly\Desktop\ExerciciosCSharp\9-Escopo\obj\Debug\9-Escopo.csproj.CoreCompileInputs.cache
