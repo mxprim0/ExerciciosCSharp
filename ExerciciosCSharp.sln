@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-CalculoPoupanca", "10-Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-CalculoPoupanca2", "11-CalculoPoupanca2\11-CalculoPoupanca2.csproj", "{B022CBC3-2C70-4025-877D-061F74BF8011}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-CalculoDeInvestimentoLongoPrazo", "12-CalculoDeInvestimentoLongoPrazo\12-CalculoDeInvestimentoLongoPrazo.csproj", "{4D201F6E-BD6B-4AFC-80E1-895D6AEA1A0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{B022CBC3-2C70-4025-877D-061F74BF8011}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B022CBC3-2C70-4025-877D-061F74BF8011}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B022CBC3-2C70-4025-877D-061F74BF8011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D201F6E-BD6B-4AFC-80E1-895D6AEA1A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D201F6E-BD6B-4AFC-80E1-895D6AEA1A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D201F6E-BD6B-4AFC-80E1-895D6AEA1A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D201F6E-BD6B-4AFC-80E1-895D6AEA1A0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
