@@ -10,7 +10,20 @@ namespace _01_Bank
     {
         static void Main(string[] args)
         {
-            new ContaCorrente();
+            ContaCorrente contaDaMaria = new ContaCorrente();
+
+            contaDaMaria.titular = "Maria";
+            contaDaMaria.agencia = 863;
+            contaDaMaria.numero = 863452;
+            contaDaMaria.saldo = 100;
+
+            Console.WriteLine("Titular da Conta: " + contaDaMaria.titular);
+            Console.WriteLine("Agência: " + contaDaMaria.agencia);
+            Console.WriteLine("Número da Conta: " + contaDaMaria.numero);
+            Console.WriteLine("Saldo da Conta: " + contaDaMaria.saldo);
+
+            contaDaMaria.saldo += 200;
+            Console.WriteLine("Saldo Atualizado: " + contaDaMaria.saldo);
 
             Console.ReadLine();
         }
