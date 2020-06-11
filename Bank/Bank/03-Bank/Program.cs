@@ -17,7 +17,7 @@ namespace _03_Bank
             contaDaMaria.numero = 863452;
 
             ContaCorrente contaDaMariaJose = new ContaCorrente();
-            contaDaMaria.titular = "Maria";
+            contaDaMaria.titular = "Maria Jose";
             contaDaMaria.agencia = 863;
             contaDaMaria.numero = 863452;
 
