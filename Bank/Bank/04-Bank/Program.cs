@@ -24,6 +24,20 @@ namespace _04_Bank
             contaDoJoao.Depositar(500);
             Console.WriteLine(contaDoJoao.saldo);
 
+            ContaCorrente contaDaMaria = new ContaCorrente();
+
+            contaDaMaria.titular = "Maria";
+
+            Console.WriteLine("Saldo Atualizado João: " + contaDoJoao.saldo);
+            Console.WriteLine("Saldo Atualizado Maria: " + contaDaMaria.saldo);
+
+           bool resultadoTransferencia = contaDoJoao.Transferir(200, contaDaMaria);
+
+            Console.WriteLine("Saldo Atualizado João: " + contaDoJoao.saldo);
+            Console.WriteLine("Saldo Atualizado Maria: " + contaDaMaria.saldo);
+
+            Console.WriteLine("Resultado transferência: " + resultadoTransferencia);
+
             Console.ReadLine();
         }
     }
