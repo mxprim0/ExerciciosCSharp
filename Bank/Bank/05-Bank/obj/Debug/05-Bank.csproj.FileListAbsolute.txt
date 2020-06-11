@@ -1,0 +1,7 @@
+C:\Users\Danielly\Desktop\ExerciciosCSharp\Bank\Bank\05-Bank\bin\Debug\05-Bank.exe.config
+C:\Users\Danielly\Desktop\ExerciciosCSharp\Bank\Bank\05-Bank\bin\Debug\05-Bank.exe
+C:\Users\Danielly\Desktop\ExerciciosCSharp\Bank\Bank\05-Bank\bin\Debug\05-Bank.pdb
+C:\Users\Danielly\Desktop\ExerciciosCSharp\Bank\Bank\05-Bank\obj\Debug\05-Bank.csprojAssemblyReference.cache
+C:\Users\Danielly\Desktop\ExerciciosCSharp\Bank\Bank\05-Bank\obj\Debug\05-Bank.csproj.CoreCompileInputs.cache
+C:\Users\Danielly\Desktop\ExerciciosCSharp\Bank\Bank\05-Bank\obj\Debug\05-Bank.exe
+C:\Users\Danielly\Desktop\ExerciciosCSharp\Bank\Bank\05-Bank\obj\Debug\05-Bank.pdb
