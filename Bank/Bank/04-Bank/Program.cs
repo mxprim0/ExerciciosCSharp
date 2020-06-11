@@ -15,9 +15,14 @@ namespace _04_Bank
             contaDoJoao.titular = "João";
 
             Console.WriteLine(contaDoJoao.saldo);
-            bool resultadoSaque = contaDoJoao.Sacar(50);
-            Console.WriteLine(contaDoJoao.saldo);
+
+            bool resultadoSaque = contaDoJoao.Sacar(500);
+
             Console.WriteLine(resultadoSaque);
+            Console.WriteLine(contaDoJoao.saldo);
+            
+            contaDoJoao.Depositar(500);
+            Console.WriteLine(contaDoJoao.saldo);
 
             Console.ReadLine();
         }
