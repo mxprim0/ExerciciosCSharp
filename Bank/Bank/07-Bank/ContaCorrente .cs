@@ -8,8 +8,26 @@ namespace _07_Bank
 
         public Cliente Titular { get; set; }
 
-        public static int TotalDeContasCriadas { get; set; }
-        public int Agencia { get; set }
+        public static int TotalDeContasCriadas { get; private set; }
+        private int _agencia;
+        public int Agencia
+        {
+            get
+            {
+                return _agencia;
+            }
+            set
+            {
+                value
+                if (value < 0)
+                {
+                    return;
+                }
+
+                _agencia = value;
+                // value só funciona dentro do método set
+            }
+        }
         public int Numero { get; set }
         
         private double _saldo = 100;
@@ -38,11 +56,13 @@ namespace _07_Bank
         {
             Agencia = agencia;
             Numero = numero;
+
+            TotalDeContasCriadas++;
         }
         
         public bool Sacar(double valor)
         {
-            if (this._saldo < valor)
+            if (_saldo < valor)
             {
                 return false;
             }
