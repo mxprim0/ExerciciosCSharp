@@ -8,6 +8,7 @@ namespace _07_Bank
 
         public Cliente Titular { get; set; }
 
+        public static int TotalDeContasCriadas { get; set; }
         public int Agencia { get; set }
         public int Numero { get; set }
         
