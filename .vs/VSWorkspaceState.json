@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Bank",
+    "\\Bank\\Bank"
   ],
+  "SelectedNode": "\\Bank\\Bank\\Bank.sln",
   "PreviewInSolutionExplorer": false
 }
