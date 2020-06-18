@@ -11,14 +11,29 @@ namespace DigitalBank
     {
         static void Main(string[] args)
         {
-            Funcionario joao = new Funcionario(1);
+            GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
 
+            Funcionario joao = new Funcionario(1);
             joao.Nome = "Joao";
             joao.CPF = "123456789-88";
             joao.Salario = 2000;
 
+            gerenciador.Registrar(joao);
+
+            Diretor maria = new Diretor();
+            maria.Nome = "Maria";
+            maria.CPF = "987654321-99";
+            maria.Salario = 5000;
+
+            gerenciador.Registrar(maria);
+
             Console.WriteLine(joao.Nome);
             Console.WriteLine(joao.GetBonificacao());
+
+            Console.WriteLine(maria.Nome);
+            Console.WriteLine(maria.GetBonificacao());
+
+            Console.WriteLine();
 
             Console.ReadLine();
         }
