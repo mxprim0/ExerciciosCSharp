@@ -13,17 +13,23 @@ namespace DigitalBank
         {
             GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
 
-            Funcionario joao = new Funcionario();
+            Funcionario joao = new Funcionario(2000, "123456789-88");
             joao.Nome = "Joao";
-            joao.CPF = "123456789-88";
-            joao.Salario = 2000;
+
+            joao.AumentarSalario();
+            Console.WriteLine("Novo salário do João: " + joao.Salario);
+
+            Console.WriteLine(Funcionario.TotalDefuncionarios);
 
             gerenciador.Registrar(joao);
 
-            Diretor maria = new Diretor();
+            Diretor maria = new Diretor(5000, "987654321-99");
             maria.Nome = "Maria";
-            maria.CPF = "987654321-99";
-            maria.Salario = 5000;
+
+            maria.AumentarSalario();
+            Console.WriteLine("Novo salário do Maria: " + maria.Salario);
+
+            Console.WriteLine(Funcionario.TotalDefuncionarios);
 
             gerenciador.Registrar(maria);
 
