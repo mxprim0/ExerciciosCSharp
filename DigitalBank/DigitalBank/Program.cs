@@ -13,7 +13,7 @@ namespace DigitalBank
         {
             GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
 
-            Funcionario joao = new Funcionario(1);
+            Funcionario joao = new Funcionario();
             joao.Nome = "Joao";
             joao.CPF = "123456789-88";
             joao.Salario = 2000;
@@ -33,7 +33,7 @@ namespace DigitalBank
             Console.WriteLine(maria.Nome);
             Console.WriteLine(maria.GetBonificacao());
 
-            Console.WriteLine();
+            Console.WriteLine("Total de bonificações: " + gerenciador.GetTotalBonificacao());
 
             Console.ReadLine();
         }

@@ -1,0 +1,7 @@
+C:\Users\Danielly\Desktop\ExerciciosCSharp\DigitalBank\DigitalBank\obj\Debug\DigitalBank.csproj.CoreCompileInputs.cache
+C:\Users\Danielly\Desktop\ExerciciosCSharp\DigitalBank\DigitalBank\bin\Debug\DigitalBank.exe.config
+C:\Users\Danielly\Desktop\ExerciciosCSharp\DigitalBank\DigitalBank\bin\Debug\DigitalBank.exe
+C:\Users\Danielly\Desktop\ExerciciosCSharp\DigitalBank\DigitalBank\bin\Debug\DigitalBank.pdb
+C:\Users\Danielly\Desktop\ExerciciosCSharp\DigitalBank\DigitalBank\obj\Debug\DigitalBank.exe
+C:\Users\Danielly\Desktop\ExerciciosCSharp\DigitalBank\DigitalBank\obj\Debug\DigitalBank.pdb
+C:\Users\Danielly\Desktop\ExerciciosCSharp\DigitalBank\DigitalBank\obj\Debug\DigitalBank.csprojAssemblyReference.cache
